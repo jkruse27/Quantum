@@ -1,0 +1,42 @@
+
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>How to Play</title>
+		<link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='styles/style.css') }}">
+	</head>
+	<body>
+	<ul>
+		<li><a href="{{ url_for('index') }}">Play</a></li>
+		<li><a href="{{ url_for('how_to') }}">How to Play</a></li>
+		<li><a href="{{ url_for('about') }}">About</a></li>
+	</ul> 
+		<h1 align="center">How to Play</h1>
+		<p>The main goal of the game is to return the qubit to its base state (|0\>). To do so, you can apply any of the gates which will be explained below.
+		You can reset the qubit to its beggining state, before you applied any qubits. You can also begin a new game by clicking on the "new state" or "random state" buttons.
+		The difference between the 2 is that when you create a "new state", the state will be created from the base state by applying the same gates you have access to
+		, while the "random state" generates a completely random state. You can choose the number of gates applied to the new state in the text box.</p>
+		<h2> Gates </h2>
+		<h3>X</h3>
+		<p> This gate flips the state of the qubit 180 degrees on the X axis. It can be represented by the ... matrix,
+		    taking the a|0> + b|1> state to the b|0> + a|1> state.</p>
+		<h3>Y</h3>
+		<p> This gate flips the state of the qubit 180 degrees on the X axis. It can be represented by the ... matrix,
+		    taking the a|0> + b|1> state to the b|0> + a|1> state.</p>
+		<h3>Z</h3>
+		<p> This gate rotates the qubit 180 degrees on the Z axis. It can be represented by the ... matrix,
+		    taking the a|0> + b|1> state to the a|0> - b|1> state.</p>
+		<h3>H</h3>
+		<p> This gate flips the state of the qubit 180 degrees on the X axis. It can be represented by the ... matrix,
+		    taking the a|0> + b|1> state to the b|0> + a|1> state.</p>
+		<h3>S</h3>
+		<p> This gate flips the state of the qubit 180 degrees on the X axis. It can be represented by the ... matrix,
+		    taking the a|0> + b|1> state to the b|0> + a|1> state.</p>
+		<h3>T</h3>
+		<p> This gate flips the state of the qubit 180 degrees on the X axis. It can be represented by the ... matrix,
+		    taking the a|0> + b|1> state to the b|0> + a|1> state.</p>
+		<p>You can see more about these gates and quantum computing in general <a href="https://qiskit.org/textbook/preface.html">here</a></p>
+	</body>
+</html>
