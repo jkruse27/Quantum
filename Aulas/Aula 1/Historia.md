@@ -57,13 +57,13 @@ Como acabamos de ver, a computação quântica ainda tem muito pela frente, mas 
 Michael A. Nielsen e Isaac L. Chuang - Quantum Computation and Quantum Information  
 Noson S. Yanofsky e Mirco A. Mannucci - Quantum  Computing for Computer Scientists  
 Abraham Asfaw et al. - Qiskit Textbook  
-Richard Feynman - Feynman Lectures Vol. 3
-D-Wave - Computational Power Consumption and Speedup
-John D. Norton - Notas de Aula - <http://www.pitt.edu/~jdnorton/teaching/HPS_0410>
-MIT Lectures Notes on Quantum Computation - <https://ocw.mit.edu/courses/mathematics/18-435j-quantum-computation-fall-2003/> 
-Qiskit Documentation - <https://qiskit.org/documentation/>
-Cirq Documentation - <https://cirq.readthedocs.io/en/stable/>
-D-Wave/Ocean Documentation - <https://docs.ocean.dwavesys.com/en/stable/>
-Rigetti/Forrest Documentation - <https://pyquil-docs.rigetti.com/en/stable/>
-Canal Fermilab no youtube - <https://www.youtube.com/user/fermilab>
-Canal PBS Space Time no youtube - <https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g>
+Richard Feynman - Feynman Lectures Vol. 3  
+D-Wave - Computational Power Consumption and Speedup  
+John D. Norton - Notas de Aula - <http://www.pitt.edu/~jdnorton/teaching/HPS_0410>  
+MIT Lectures Notes on Quantum Computation - <https://ocw.mit.edu/courses/mathematics/18-435j-quantum-computation-fall-2003/>  
+Qiskit Documentation - <https://qiskit.org/documentation/>  
+Cirq Documentation - <https://cirq.readthedocs.io/en/stable/>  
+D-Wave/Ocean Documentation - <https://docs.ocean.dwavesys.com/en/stable/>  
+Rigetti/Forrest Documentation - <https://pyquil-docs.rigetti.com/en/stable/>  
+Canal Fermilab no youtube - <https://www.youtube.com/user/fermilab>  
+Canal PBS Space Time no youtube - <https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g>  
