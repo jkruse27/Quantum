@@ -8,7 +8,7 @@ pyparsing==2.4.0
 pyscf==1.6.1.post1
 PySocks==1.6.8
 update==0.0.1
-urllib3==1.24.1
+urllib3==1.26.5
 webencodings==0.5.1
 websockets==7.0
 qiskit==0.19.0
